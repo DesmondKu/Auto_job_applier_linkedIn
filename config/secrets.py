@@ -16,8 +16,8 @@ GitHub:     https://github.com/GodsScion/Auto_job_applier_linkedIn
 
 
 # Login Credentials for LinkedIn (Optional)
-username = "username@example.com"  # Enter your username in the quotes
-password = "example_password"      # Enter your password in the quotes
+username = "desmondkumz@gmail.com"  # Enter your username in the quotes
+password = "Desmond990531!"      # Enter your password in the quotes
 
 
 # # Your OPEN AI API key 
